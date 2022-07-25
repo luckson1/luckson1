@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on React.js open-source projects
 - 🤔 I’m looking for help with react state management
 - 💬 Ask me about anything
-- 📫 How to reach me: email:jacksongathondu@gmail.com
+- 📫 How to reach me:[email] jacksongathondu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fluent in 4 languages
 -->
