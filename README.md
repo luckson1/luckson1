@@ -12,7 +12,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-- 🔭 I’m currently working on  NLP chatbot
+- 🔭 I’m currently working on AWS certification
 - 🌱 I’m currently learning Python and AWS
 - 👯 I’m looking to collaborate on React.js open-source projects
 - 🤔 I’m looking for help with react state management
