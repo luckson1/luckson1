@@ -13,9 +13,9 @@
 
 
 - 🔭 I’m currently working on NLP chatbot.
-- 🌱 I’m currently learning Python, Linux and Docker.
+- 🌱 I’m currently learning Docker,Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on React.js open-source projects
-- 🤔 I’m looking for help withlearning cloud engineering
+- 🤔 I’m looking for help with learning cloud engineering
 - 📫 How to reach me: jacksongathondu@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fluent in 4 languages
