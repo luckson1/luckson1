@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on NLP chatbot.
-- 🌱 I’m currently learning Docker,Data Structures and Algorithms.
+- 🌱 I’m currently learning GraphQl,Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on React.js open-source projects
 - 🤔 I’m looking for help with learning cloud engineering
 - 📫 How to reach me: jacksongathondu@gmail.com
