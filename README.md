@@ -1,7 +1,7 @@
 # Hello there 👋, I am Jack.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckson1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckson1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckson1&layout=compact)](https://github.com/luckson1/github-readme-stats)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
