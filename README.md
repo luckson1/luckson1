@@ -1,6 +1,6 @@
 # Hello there 👋, I am Jack .
 
-![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckson1&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckson1&layout=compact)](https://github.com/luckson1/github-readme-stats)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
